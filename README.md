@@ -1,3 +1,7 @@
+This app is a simple example created to help students understand how React router works.
+
+---
+
 ## Running React on Repl.it
 
 [React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
